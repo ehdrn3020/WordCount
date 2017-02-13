@@ -1,2 +1,2 @@
-# WordCount
+#Hadoop WordCount
 word count by mapreduce
